@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.content-wrapper {
+    background: white !important;
+}
+.admin-title {
+    width: 100%;
+    font-size: 24px;
+}
